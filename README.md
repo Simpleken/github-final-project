@@ -1,4 +1,4 @@
-# A simple Interest calculator fot a micro finace sector
+# A simple Interest calculator for a micro finace sector
 # A calculator that calculates simple interest given Principal, annual rate of interest and time principal
 ```
 # Input:
